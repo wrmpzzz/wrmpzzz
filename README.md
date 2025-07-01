@@ -11,10 +11,10 @@
   <a href="mailto:wm0803687@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/tuusuario">
+  <a href="https://www.linkedin.com/in/williams-mu%C3%B1oz-893623289/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/tuusuario">
+  <a href="https://github.com/wrmpzzz">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -23,10 +23,9 @@
 
 ## 🚀 Sobre Mí
 
-- 🎯 Apasionado por la performance, accesibilidad y UI/UX.
+- 🎯 Apasionado por la progamación.
 - 🌱 Aprendiendo: Testing, animaciones avanzadas y JAMstack.
 - 🤝 Busco equipos con visión moderna y proyectos desafiantes.
-- 🏡 Remoto o híbrido.
 
 ---
 
@@ -133,6 +132,3 @@
 ---
 
 ## 🙌 Gracias por visitar
-
-<p align="center"><b>Estoy abierto a colaboraciones, oportunidades laborales y conexiones profesionales.<br>
-¿Buscas un frontend visual y eficiente? ¡Conversemos!</b></p>
