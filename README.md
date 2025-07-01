@@ -1,12 +1,11 @@
-<!-- Banner superior minimalista (opcional, sube tu imagen al repo y pon el link aquí) -->
-<!-- <p align="center">
-  <img src="https://your-url.com/banner-minimalista.png" width="100%" alt="Banner Williams Frontend"/>
-</p> -->
-
-<h1 align="center">Williams 👨‍💻</h1>
 <p align="center">
-  <b>Frontend Developer</b> <br/>
-  <span>React · Next.js · Tailwind CSS</span>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:20232A&height=180&section=header&text=Williams%20%7C%20Frontend%20Developer&fontSize=38&fontAlignY=40&desc=React%20·%20Next.js%20·%20Tailwind%20CSS&descSize=18&descAlign=60" alt="Banner Williams Frontend Developer"/>
+</p>
+
+<h1 align="center">¡Hola! 👋 Soy Williams</h1>
+<p align="center">
+  <b>Frontend Developer</b><br/>
+  <span>Especializado en React · Next.js · Tailwind CSS</span>
 </p>
 
 <br/>
@@ -21,18 +20,21 @@
 <br/>
 
 <p align="center">
-  <i>Diseño interfaces elegantes. Amo la performance. Me enfoco en la experiencia de usuario.<br>
-  Busco oportunidades <b>Frontend</b> para crear productos digitales que marquen la diferencia.</i>
+  <i>
+    Diseño interfaces limpias y modernas.<br>
+    Apasionado por la performance y la experiencia de usuario.<br>
+    Busco oportunidades <b>Frontend</b> para crear productos digitales que destaquen.
+  </i>
 </p>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:tuemail@email.com">
-    <img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="mailto:wrmpzzz@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/tu-linkedin">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
@@ -41,7 +43,7 @@
 ## 🚀 Proyectos
 
 <p align="center">
-  <a href="URL_DEL_PROYECTO_1"><b>LandingPage Pro</b></a> · 
+  <a href="URL_DEL_PROYECTO_1"><b>LandingPage Pro</b></a> &nbsp;|&nbsp;
   <a href="URL_DEL_PROYECTO_2"><b>Gestor de Tareas</b></a>
 </p>
 
