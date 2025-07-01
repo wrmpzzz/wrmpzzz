@@ -21,32 +21,32 @@
 
 ---
 
-## 🚀 Sobre Mí
+## 🚀 Sobre mí
 
-- 🎯 Apasionado por la progamación.
-- 🌱 Aprendiendo: Testing, animaciones avanzadas y JAMstack.
-- 🤝 Busco equipos con visión moderna y proyectos desafiantes.
+- 🎯 Apasionado por la programación y el diseño centrado en el usuario.  
+- 🌱 Actualmente aprendiendo: testing avanzado, animaciones y JAMstack.  
+- 🤝 Busco unirme a equipos modernos con visión de futuro y proyectos retadores.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y herramientas
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Estándares Web</b></td>
-    <td align="center"><b>Testing & Calidad</b></td>
-    <td align="center"><b>Herramientas</b></td>
-    <td align="center"><b>APIs & CMS</b></td>
+    <th>Frontend</th>
+    <th>Estándares Web</th>
+    <th>Testing & Calidad</th>
+    <th>Herramientas</th>
+    <th>APIs & CMS</th>
   </tr>
   <tr>
     <td align="center">⚛️ React<br>⚡ Next.js<br>🌬️ Tailwind CSS<br>🔥 TypeScript<br>🗃️ Redux, Zustand</td>
     <td align="center">🌐 HTML5<br>🎨 CSS3<br>🛠️ JavaScript ES6+</td>
-    <td align="center">✅ Jest<br>✅ React Testing Lib</td>
+    <td align="center">✅ Jest<br>✅ React Testing Library</td>
     <td align="center">🧰 Git & GitHub<br>🎨 Figma<br>📡 Postman<br>🚀 Vercel</td>
-    <td align="center">🔗 REST & GraphQL<br>📝 Sanity, Contentful</td>
+    <td align="center">🔗 REST / GraphQL<br>📝 Sanity, Contentful</td>
   </tr>
 </table>
 
@@ -65,7 +65,7 @@
 
 ---
 
-## 🌟 Proyectos Destacados
+## 🌟 Proyectos destacados
 
 <div align="center">
 
@@ -74,8 +74,8 @@
 </a>
 <br>
 <sub>
-  <b>Next.js · Tailwind CSS · Framer Motion</b> <br>
-  Diseño responsivo | Animaciones suaves | Mobile-first | Despliegue en Vercel
+  <b>Next.js · Tailwind CSS · Framer Motion</b><br>
+  Diseño responsivo · Animaciones suaves · Mobile-first · Deploy en Vercel
 </sub>
 
 <br><br>
@@ -85,8 +85,8 @@
 </a>
 <br>
 <sub>
-  <b>React · Zustand · Styled Components · API REST</b> <br>
-  Catálogo dinámico | Carrito persistente | Filtros avanzados | Simulación de pagos
+  <b>React · Zustand · Styled Components · REST API</b><br>
+  Catálogo dinámico · Carrito persistente · Filtros · Checkout simulado
 </sub>
 
 <br><br>
@@ -96,15 +96,15 @@
 </a>
 <br>
 <sub>
-  <b>Next.js · MDX · Tailwind CSS · SEO</b> <br>
-  Gestión de artículos | SEO | Arquitectura limpia | Generación estática
+  <b>Next.js · MDX · Tailwind · SEO</b><br>
+  Arquitectura limpia · Generación estática · Optimización para buscadores
 </sub>
 
 </div>
 
 ---
 
-## 💼 Qué Estoy Buscando
+## 💼 Lo que estoy buscando
 
 <div align="center">
 
@@ -114,9 +114,9 @@
 
 </div>
 
-- Equipos con enfoque en calidad de código y diseño centrado en el usuario  
-- Proyectos desafiantes con tecnologías modernas  
-- Oportunidades para crecer profesionalmente y aportar valor real  
+- Equipos con enfoque en calidad, accesibilidad y buenas prácticas.  
+- Proyectos que representen un reto y donde pueda seguir aprendiendo.  
+- Un entorno donde aportar valor y crecer como desarrollador frontend.
 
 ---
 
@@ -131,4 +131,4 @@
 
 ---
 
-## 🙌 Gracias por visitar
+## 🙌 ¡Gracias por visitar mi perfil!
