@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC,20232A&height=180&section=header&text=Williams%20%E2%80%94%20Frontend%20Developer&fontSize=38&fontAlignY=40&desc=React%20·%20Next.js%20·%20Tailwind%20CSS&descSize=18&descAlign=60" alt="Banner Williams Frontend Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFF22,20232A&height=180&section=header&text=Williams%20%E2%80%94%20Frontend%20Developer&fontSize=38&fontAlignY=40&desc=React%20·%20Next.js%20·%20Tailwind%20CSS&descSize=18&descAlign=60" alt="Banner Williams Frontend Developer"/>
 </p>
 
 <h1 align="center">👨‍💻 Williams — Frontend Developer</h1>
