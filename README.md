@@ -21,6 +21,17 @@ Me apasiona transformar ideas en experiencias digitales limpias, rápidas y cent
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-fff?style=flat&logo=figma"/>
+</p>
+
+---
+
 ## 🚀 Proyectos Destacados
 
 ### 🌐 Portafolio Personal  
