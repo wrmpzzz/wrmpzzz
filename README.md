@@ -83,8 +83,6 @@ Soy un **desarrollador frontend junior** apasionado por crear interfaces web mod
 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -134,7 +132,7 @@ const features = [
 
 Aplicación de quiz interactivo con sistema de puntuación, categorías y gestión de estado avanzada con Zustand.
 
-```javascript
+```typescript
 // Características desarrolladas
 const features = [
   "🎯 Sistema de puntuación en tiempo real",
@@ -190,7 +188,7 @@ const conceptsLearned = [
 Mi primera aplicación full-stack donde integré frontend con backend usando Next.js API routes.
 
 ```typescript
-// Tecnologías que dominé en este proyecto  
+// Conceptos aplicados en este proyecto
 const newSkills = [
   "📝 Validación de formularios",
   "🔍 Implementación de filtros",
