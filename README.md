@@ -16,14 +16,14 @@
 
 ## 🎯 Sobre mí
 
-Soy un **desarrollador frontend especializado** en crear interfaces modernas que combinan excelente UX con código limpio y escalable. Mi enfoque se centra en:
+Soy un **desarrollador frontend junior** apasionado por crear interfaces web modernas y funcionales. Durante mi proceso de aprendizaje, me he enfocado en dominar las tecnologías fundamentales del desarrollo frontend:
 
-🔥 **Performance-first development** - Optimización de Core Web Vitals y carga ultrarrápida  
-🎨 **Design Systems** - Componentes reutilizables y consistencia visual  
-♿ **Accesibilidad real** - WCAG 2.1 AA como estándar, no como opción  
-📱 **Mobile-first approach** - Experiencias fluidas en cualquier dispositivo  
+🚀 **Desarrollador autodidacta** - Aprendizaje continuo a través de proyectos prácticos  
+💻 **Stack moderno** - React, Next.js, TypeScript y Tailwind CSS  
+📱 **Responsive design** - Interfaces que funcionan perfectamente en cualquier dispositivo  
+🎨 **UI/UX consciente** - Siempre pensando en la experiencia del usuario  
 
-> *Actualmente profundizando en: **Micro-frontends**, **Web Components** y **Motion Design***
+> *Actualmente perfeccionando: **Testing**, **Optimización de rendimiento** y **Buenas prácticas de código***
 
 ---
 
@@ -46,8 +46,6 @@ Soy un **desarrollador frontend especializado** en crear interfaces modernas que
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 </div>
@@ -57,7 +55,6 @@ Soy un **desarrollador frontend especializado** en crear interfaces modernas que
 
 ![Zustand](https://img.shields.io/badge/Zustand-2C5F2D97?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 </div>
 
@@ -115,7 +112,6 @@ Mi portafolio personal construido con las últimas tecnologías. Diseño moderno
 const features = [
   "🎨 UI/UX moderno y responsivo",
   "⚡ Performance optimizado (95+ Lighthouse)",
-  "🎭 Animaciones con Framer Motion",
   "📱 Progressive Web App (PWA)",
   "🔍 SEO optimizado con Next.js"
 ]
@@ -139,13 +135,13 @@ const features = [
 Aplicación de quiz interactivo con sistema de puntuación, categorías y gestión de estado avanzada con Zustand.
 
 ```javascript
-// Funcionalidades implementadas
+// Características desarrolladas
 const features = [
-  "🎯 Sistema de puntuación dinámico",
-  "📊 Estadísticas de rendimiento",
-  "🎨 Interfaz intuitiva y atractiva",
-  "⏱️ Temporizador por pregunta",
-  "📱 Completamente responsive"
+  "🎯 Sistema de puntuación en tiempo real",
+  "📊 Seguimiento de progreso del usuario",
+  "🎨 Interfaz limpia y fácil de usar",
+  "⏱️ Temporizador funcional",
+  "📱 Design responsive y mobile-first"
 ]
 ```
 
@@ -163,16 +159,16 @@ const features = [
 
 </div>
 
-Implementación clásica del juego Tic Tac Toe con React. Código limpio y lógica de juego optimizada.
+Implementación del clásico juego donde pratiqué los fundamentos de React y lógica de programación.
 
 ```javascript
-// Características del juego
-const gameFeatures = [
-  "🎮 Lógica de juego completa",
-  "🏆 Detección de ganador automática",
-  "🔄 Reset y nuevo juego",
-  "✨ Animaciones CSS suaves",
-  "👥 Modo 2 jugadores"
+// Conceptos aplicados en este proyecto
+const conceptsLearned = [
+  "🎮 Manejo de estado y lógica de juego",
+  "🏆 Algoritmos para detección de ganador",
+  "🔄 Ciclo de vida de componentes React",
+  "✨ Estilizado con CSS puro",
+  "👥 Interacción entre componentes"
 ]
 ```
 
@@ -191,16 +187,14 @@ const gameFeatures = [
 
 </div>
 
-Aplicación CRUD completa con Next.js, base de datos y API routes. Gestión completa de datos con interfaz moderna.
+Mi primera aplicación full-stack donde integré frontend con backend usando Next.js API routes.
 
 ```typescript
-// Stack completo implementado
-const fullStackFeatures = [
-  "🗄️ Base de datos con Prisma ORM",
-  "🔧 API Routes de Next.js",
-  "📝 Formularios con validación",
-  "🔍 Búsqueda y filtros",
-  "⚡ Server-side rendering (SSR)"
+// Tecnologías que dominé en este proyecto  
+const newSkills = [
+  "📝 Validación de formularios",
+  "🔍 Implementación de filtros",
+  "⚡ Conceptos de server-side rendering"
 ]
 ```
 
@@ -232,22 +226,43 @@ const fullStackFeatures = [
 
 </div>
 
-### ✅ **Estoy disponible para:**
-- 🌍 **Trabajo remoto/híbrido** - Colaboración efectiva en equipos distribuidos
-- 🚀 **Proyectos desafiantes** - SaaS, e-commerce, dashboards complejos
-- 🎯 **Startups tech** - Donde pueda crecer y aportar valor desde el día 1
-- 💡 **Equipos innovadores** - Con cultura de buenas prácticas y aprendizaje continuo
+### 💼 ¿Por qué elegirme como Frontend Developer Junior?
+
+<div align="center">
+
+### 🎯 **Lo que aporto al equipo**
+
+| 🚀 **Fundamentos Sólidos** | 🎨 **Pasión por el Diseño** | 🔧 **Código Limpio** |
+|:---------------------------:|:----------------------------:|:---------------------:|
+| HTML, CSS, JavaScript | Interfaces intuitivas | Mejores prácticas |
+| React y Next.js | Responsive design | Código documentado |
+| Git y control de versiones | Atención al detalle | Refactoring constante |
+
+</div>
+
+- 🚀 **Proyectos web modernos** - React, Next.js, o tecnologías similares
+- 💡 **Equipo colaborativo** - Con mentoría y code reviews constructivos
+- 📈 **Crecimiento profesional** - Oportunidad de desarrollar una carrera a largo plazo
+
+### 🎓 **Mi compromiso:**
+- 📚 **Aprendizaje continuo** - Siempre estudiando nuevas tecnologías y mejores prácticas
+- 🤝 **Trabajo en equipo** - Comunicación clara y colaboración efectiva
+- 🎯 **Orientado a resultados** - Cada línea de código tiene un propósito
+- 🔄 **Adaptabilidad** - Receptivo al feedback y dispuesto a iterar
 
 ---
 
 <div align="center">
 
-### 💬 **¡Hablemos de tu próximo proyecto!**
+### 💬 **¡Me encantaría formar parte de tu equipo!**
 
-*"El código es como el humor. Cuando tienes que explicarlo, es malo."*  
-— **Cory House**
+*"El único modo de hacer un gran trabajo es amar lo que haces."*  
+— **Steve Jobs**
 
-[![Agenda una llamada](https://img.shields.io/badge/📅%20Agendar%20Llamada-00D4AA?style=for-the-badge&logo=calendly&logoColor=white)](#)
+*"Todo experto fue una vez un principiante."*  
+— **Helen Hayes**
+
+[![Contáctame](https://img.shields.io/badge/💌%20Hablemos%20de%20oportunidades-00D4AA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wm0803687@gmail.com)
 
 ---
 
