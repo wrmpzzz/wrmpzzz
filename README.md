@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🚀 Williams Muñoz
@@ -31,86 +30,179 @@ Soy un **desarrollador frontend especializado** en crear interfaces modernas que
 ## 🛠️ Stack Tecnológico
 
 ### 🎨 **Frontend Core**
-```typescript
-const skills = {
-  frameworks: ["React 18", "Next.js 14", "Astro", "Vite"],
-  styling: ["Tailwind CSS", "Styled Components", "CSS Modules", "Sass"],
-  languages: ["TypeScript", "JavaScript ES2024", "HTML5", "CSS3"],
-  stateManagement: ["Zustand", "Redux Toolkit", "React Context", "SWR"]
-}
-```
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### 🎨 **Styling & Design**
+<div align="center">
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+</div>
+
+### 🧠 **State Management**
+<div align="center">
+
+![Zustand](https://img.shields.io/badge/Zustand-2C5F2D97?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+
+</div>
 
 ### 🧪 **Testing & Quality**
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+<div align="center">
 
-### ⚡ **Performance & DevOps**
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
-### 🔌 **APIs & Backend Integration**
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=swagger&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
-![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white)
+</div>
+
+### ⚡ **DevOps & Deployment**
+<div align="center">
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+
+### 🔌 **APIs & CMS**
+<div align="center">
+
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
 ## 🏆 Proyectos Destacados
 
-### 🌟 **SaaS Dashboard Pro**
-[![Live Demo](https://img.shields.io/badge/🚀%20Demo%20Live-4CAF50?style=flat-square)](URL_DEL_PROYECTO)
-[![Code](https://img.shields.io/badge/📁%20Código-333?style=flat-square&logo=github)](URL_GITHUB)
+### 🌟 **Portafolio Personal**
+[![Live Demo](https://img.shields.io/badge/🚀%20Demo%20Live-4CAF50?style=for-the-badge)](URL_DEL_PROYECTO)
+[![Code](https://img.shields.io/badge/📁%20Código-181717?style=for-the-badge&logo=github)](URL_GITHUB)
 
-**Next.js 14** • **TypeScript** • **Tailwind** • **Framer Motion** • **Vercel**
+<div align="center">
 
-Dashboard administrativo completo con autenticación, gráficos interactivos y theme switcher. **95+ Lighthouse score**.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+</div>
+
+Mi portafolio personal construido con las últimas tecnologías. Diseño moderno con animaciones fluidas y optimización SEO.
 
 ```typescript
-// Arquitectura modular y escalable
-features: [
-  "🔐 Auth con NextAuth.js",
-  "📊 Charts con Recharts",
-  "🌙 Dark/Light mode",
-  "📱 PWA ready",
-  "⚡ ISR + SSG optimization"
+// Características destacadas
+const features = [
+  "🎨 UI/UX moderno y responsivo",
+  "⚡ Performance optimizado (95+ Lighthouse)",
+  "🎭 Animaciones con Framer Motion",
+  "📱 Progressive Web App (PWA)",
+  "🔍 SEO optimizado con Next.js"
 ]
 ```
 
 ---
 
-### 🛍️ **E-commerce Moderno**
-[![Live Demo](https://img.shields.io/badge/🚀%20Demo%20Live-FF6B6B?style=flat-square)](URL_DEL_PROYECTO)
-[![Code](https://img.shields.io/badge/📁%20Código-333?style=flat-square&logo=github)](URL_GITHUB)
+### 🧠 **Quiz Interactivo**
+[![Live Demo](https://img.shields.io/badge/🚀%20Demo%20Live-FF6B6B?style=for-the-badge)](URL_DEL_PROYECTO)
+[![Code](https://img.shields.io/badge/📁%20Código-181717?style=for-the-badge&logo=github)](URL_GITHUB)
 
-**React 18** • **Zustand** • **Stripe API** • **Tailwind** • **React Query**
+<div align="center">
 
-E-commerce full-featured con carrito persistente, checkout real y admin panel.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Zustand](https://img.shields.io/badge/Zustand-2C5F2D97?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+</div>
+
+Aplicación de quiz interactivo con sistema de puntuación, categorías y gestión de estado avanzada con Zustand.
 
 ```javascript
-// Funcionalidades avanzadas
+// Funcionalidades implementadas
 const features = [
-  "💳 Integración Stripe completa",
-  "🔍 Búsqueda con filtros dinámicos",
-  "📦 Sistema de inventario real-time",
-  "🎨 UI/UX premium con micro-animations"
+  "🎯 Sistema de puntuación dinámico",
+  "📊 Estadísticas de rendimiento",
+  "🎨 Interfaz intuitiva y atractiva",
+  "⏱️ Temporizador por pregunta",
+  "📱 Completamente responsive"
 ]
 ```
 
 ---
 
-### 📝 **Blog Técnico JAMstack**
-[![Live Demo](https://img.shields.io/badge/🚀%20Demo%20Live-6366F1?style=flat-square)](URL_DEL_PROYECTO)
-[![Code](https://img.shields.io/badge/📁%20Código-333?style=flat-square&logo=github)](URL_GITHUB)
+### 🎮 **Tic Tac Toe Clásico**
+[![Live Demo](https://img.shields.io/badge/🚀%20Demo%20Live-6366F1?style=for-the-badge)](URL_DEL_PROYECTO)
+[![Code](https://img.shields.io/badge/📁%20Código-181717?style=for-the-badge&logo=github)](URL_GITHUB)
 
-**Astro 4** • **MDX** • **TypeScript** • **Tailwind** • **View Transitions**
+<div align="center">
 
-Blog técnico con CMS headless, búsqueda full-text y optimización SEO avanzada.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</div>
+
+Implementación clásica del juego Tic Tac Toe con React. Código limpio y lógica de juego optimizada.
+
+```javascript
+// Características del juego
+const gameFeatures = [
+  "🎮 Lógica de juego completa",
+  "🏆 Detección de ganador automática",
+  "🔄 Reset y nuevo juego",
+  "✨ Animaciones CSS suaves",
+  "👥 Modo 2 jugadores"
+]
+```
+
+---
+
+### 📝 **CRUD Full-Stack**
+[![Live Demo](https://img.shields.io/badge/🚀%20Demo%20Live-10B981?style=for-the-badge)](URL_DEL_PROYECTO)
+[![Code](https://img.shields.io/badge/📁%20Código-181717?style=for-the-badge&logo=github)](URL_GITHUB)
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+</div>
+
+Aplicación CRUD completa con Next.js, base de datos y API routes. Gestión completa de datos con interfaz moderna.
+
+```typescript
+// Stack completo implementado
+const fullStackFeatures = [
+  "🗄️ Base de datos con Prisma ORM",
+  "🔧 API Routes de Next.js",
+  "📝 Formularios con validación",
+  "🔍 Búsqueda y filtros",
+  "⚡ Server-side rendering (SSR)"
+]
+```
 
 ---
 
