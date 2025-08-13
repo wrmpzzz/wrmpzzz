@@ -211,9 +211,7 @@ const fullStackFeatures = [
 
 </div>
 
-### ✨ **Lo que busco en mi primera oportunidad:**
 
-🌟 **Empresa con mentoría** - Donde pueda aprender de seniors y crecer profesionalmente  
 🚀 **Proyectos desafiantes** - Que me permitan aplicar y expandir mis conocimientos  
 💡 **Equipo colaborativo** - Con code reviews, pair programming y buena comunicación  
 📈 **Crecimiento profesional** - Oportunidades reales de desarrollo de carrera  
@@ -238,7 +236,6 @@ const fullStackFeatures = [
 — **Robin Sharma**
 
 [![💌 Contáctame](https://img.shields.io/badge/Hablemos%20de%20tu%20próximo%20proyecto-00D4AA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wm0803687@gmail.com)
-[![📅 Agenda una call](https://img.shields.io/badge/Agendar%20Videollamada-4285F4?style=for-the-badge&logo=googlemeet&logoColor=white)](#)
 
 ---
 
