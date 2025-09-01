@@ -101,8 +101,8 @@ const portfolioFeatures = [
 ---
 
 ### 🧠 **Quiz App Interactivo**
-[![🚀 Live Demo](https://img.shields.io/badge/Demo%20Live-FF6B6B?style=for-the-badge&logo=vercel)](URL_DEL_PROYECTO)
-[![📁 Código](https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github)](URL_GITHUB)
+[![🚀 Live Demo](https://img.shields.io/badge/Demo%20Live-FF6B6B?style=for-the-badge&logo=vercel)](https://quiz-zustand.netlify.app/)
+[![📁 Código](https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github)](https://github.com/wrmpzzz/Quiz-zustand)
 
 <div align="center">
 
@@ -129,8 +129,8 @@ const quizFeatures = [
 ---
 
 ### 🎮 **Tic Tac Toe Classic**
-[![🚀 Live Demo](https://img.shields.io/badge/Demo%20Live-6366F1?style=for-the-badge&logo=vercel)](URL_DEL_PROYECTO)
-[![📁 Código](https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github)](URL_GITHUB)
+[![🚀 Live Demo](https://img.shields.io/badge/Demo%20Live-6366F1?style=for-the-badge&logo=vercel)](https://tresenra.netlify.app/)
+[![📁 Código](https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github)](https://github.com/wrmpzzz/Tic-Tac-Toe)
 
 <div align="center">
 
@@ -156,8 +156,8 @@ const gameLogic = [
 ---
 
 ### 📝 **CRUD Full-Stack**
-[![🚀 Live Demo](https://img.shields.io/badge/Demo%20Live-10B981?style=for-the-badge&logo=vercel)](URL_DEL_PROYECTO)
-[![📁 Código](https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github)](URL_GITHUB)
+[![🚀 Live Demo](https://img.shields.io/badge/Demo%20Live-10B981?style=for-the-badge&logo=vercel)](https://app-crud-git-main-wrmpzzzs-projects.vercel.app/)
+[![📁 Código](https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github)](https://github.com/wrmpzzz/App-Crud)
 
 <div align="center">
 
